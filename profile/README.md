@@ -35,3 +35,4 @@ Aplikacija je razdeljena na štiri mikrostoritve, ki bodo komunicirale prek prot
 - **Entitete:** Dostop do podatkovne baze.
 - **DTO (Data Transfer Objects):** Prilagoditev in obdelava podatkov za API-je.
 - **API in storitve:** Upravljanje podatkovne logike in komunikacije z drugimi mikrostoritvami.
+- **Kafka:** Za prenos email sporočila med 2 mikrostoritvama
